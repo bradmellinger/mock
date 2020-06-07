@@ -10,7 +10,8 @@
 			"date": "2020-08-01",
 			"awayTeam": "Mets",
 			"homeTeam": "Phillies",
-			"section": "ClubLevelCenter219"
+			"section": "Club Level Center 219",
+			"weight": 40
 		},
 		{
 			"price": 89.00,
@@ -21,7 +22,8 @@
 			"date": "2020-08-02",
 			"awayTeam": "Mets",
 			"homeTeam": "Phillies",
-			"section": "ClubLevelCenter218"
+			"section": "Club Level Center 218",
+			"weight": 100
 		},
 		{
 			"price": 79.00,
@@ -32,7 +34,8 @@
 			"date": "2020-08-07",
 			"awayTeam": "Braves",
 			"homeTeam": "Phillies",
-			"section": "ClubLevelCenter222"
+			"section": "Club Level Center 222",
+			"weight": 60
 		},
 		{
 			"price": 93.25,
@@ -43,7 +46,8 @@
 			"date": "2020-08-08",
 			"awayTeam": "Braves",
 			"homeTeam": "Phillies",
-			"section": "ClubLevelCenter223"
+			"section": "Club Level Center 223",
+			"weight": 20
 		},
 		{
 			"price": 88.50,
@@ -54,7 +58,20 @@
 			"date": "2020-08-09",
 			"awayTeam": "Braves",
 			"homeTeam": "Phillies",
-			"section": "ClubLevelCenter222"
+			"section": "Club Level Center 222",
+			"weight": 75
+		}],
+		{
+			"price": 110.25,
+			"homePitcherFirst": "Zach",
+			"homePitcherLast": "Eflin",
+			"awayPitcherFirst": "Max",
+			"awayPitcherLast": "Fried",
+			"date": "2020-08-10",
+			"awayTeam": "Braves",
+			"homeTeam": "Phillies",
+			"section": "Club Level Center 221",
+			"weight": 80
 		}]
 	}]
 }
