@@ -23,7 +23,7 @@
 			"awayTeam": "Mets",
 			"homeTeam": "Phillies",
 			"section": "Club Level Center 218",
-			"weight": 100
+			"weight": 80
 		},
 		{
 			"price": 79.00,
@@ -95,7 +95,7 @@
 			"awayTeam": "Mets",
 			"homeTeam": "Phillies",
 			"section": "Club Level Center 218",
-			"weight": 100
+			"weight": 75
 		},
 		{
 			"price": 79.00,
@@ -203,7 +203,7 @@
 			"awayTeam": "Braves",
 			"homeTeam": "Phillies",
 			"section": "Club Level Center 222",
-			"weight": 90
+			"weight": 70
 		},
 		{
 			"price": 110.25,
